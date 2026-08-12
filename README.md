@@ -126,15 +126,15 @@ Smart-Inventory-Management-System/
 
 ### Orders
 
-![Suppliers Management](./Screenshots/Orders.png)
+![Orders](./Screenshots/Orders.png)
 
 ### CustomerProducts
 
-![Suppliers Management](./Screenshots/CustomerProducts.png)
+![CustomerProducts ](./Screenshots/CustomerProducts.png)
 
 ### CustmerOrders
 
-![Suppliers Management](./Screenshots/CustomerOrders.png)
+![CustomerOrders](./Screenshots/CustomerOrders.png)
 
 ## How to Run the Project
 
