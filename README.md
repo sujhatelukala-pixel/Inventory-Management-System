@@ -106,7 +106,7 @@ Smart-Inventory-Management-System/
 
 ### Login Page
 
-![Login Page]([./screenshots/login.png])
+![Login Page](./Screenshots/Login.png)
 
 ### Admin Dashboard
 
