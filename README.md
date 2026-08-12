@@ -106,7 +106,7 @@ Smart-Inventory-Management-System/
 
 ### Login Page
 
-![Login Page](./screenshots/login.png)
+![Login Page]([./screenshots/login.png](https://github.com/sujhatelukala-pixel/Inventory-Management-System/blob/8f72e129dd3a0a3ff16f1fe7c1cd6787b2033485/Screenshots/Login.png))
 
 ### Admin Dashboard
 
