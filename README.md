@@ -110,19 +110,31 @@ Smart-Inventory-Management-System/
 
 ### Admin Dashboard
 
-![Admin Dashboard](./screenshots/dashboard.png)
+![Admin Dashboard](./Screenshots/Admin_Dashboard.png)
 
 ### Products Management
 
-![Products Management](./screenshots/products.png)
+![Products Management](./Screenshots/Product_Management.png)
 
 ### Categories Management
 
-![Categories Management](./screenshots/categories.png)
+![Categories Management](./Screenshots/Categories_management.png)
 
 ### Suppliers Management
 
-![Suppliers Management](./screenshots/suppliers.png)
+![Suppliers Management](./Screenshots/Supplier_Management.png)
+
+### Orders
+
+![Suppliers Management](./Screenshots/Orders.png)
+
+### CustomerProducts
+
+![Suppliers Management](./Screenshots/CustomerProducts.png)
+
+### CustmerOrders
+
+![Suppliers Management](./Screenshots/CustomerOrders.png)
 
 ## How to Run the Project
 
